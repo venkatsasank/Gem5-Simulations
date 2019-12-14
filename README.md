@@ -1,6 +1,7 @@
 # Gem5-Simulations
 
 Team members Contributions
+
 Indrakiran Reddy Inapagundla:
 Simulation and evaluation of ARM architecture with In-order CPU model.
 Collecting statistics for the same.
